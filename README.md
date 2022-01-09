@@ -2,7 +2,10 @@
 ## Raspagem de dados simples de pic.obmep.org.br em Python 3
 ### Requisitos
 -> Python 3 instalado no computador
+
 -> lib requests `pip install requests`
+
+-> lib BeautifulSoup4 (bs4) `pip install BeautifulSoup4`
 
 #### Login
 -> Login pode ser feito com seu usuário e senha de aluno, assim:
